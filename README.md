@@ -1,4 +1,4 @@
-# Globe 🌍
+# Globe
 
 > *An experimental network-native programming language.*
 
