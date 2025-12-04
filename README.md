@@ -1,6 +1,6 @@
-# Globe
+<img width="550" height="510" alt="GlobeLogoWide" src="https://github.com/user-attachments/assets/138ed710-6310-4b1a-be5c-afac93265897" />
 
-> *An experimental network-native programming language.*
+Globe > *An experimental network-native programming language.*
 
 ---
 
